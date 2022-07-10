@@ -1,4 +1,4 @@
-- 👋 Hi, All projects ıt is demo
+- 👋 Hi, All projects ıt is demo.
 
 <!---
 m-rasit-k-y/m-rasit-k-y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
